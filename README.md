@@ -7,7 +7,9 @@ I’ve included some helpful links to guide you through the lab and for studying
 
 [LPIC Exam Objective 102.3](https://www.lpi.org/our-certifications/exam-101-102-objectives/#102.3_Manage_shared_libraries)
 
+[102.3 NOTES](https://1drv.ms/w/c/354f1c8d534fbced/EceKeVlQJHJKvXPW91sCbxYBuwgB9ERJETpLuEY-A76niQ?e=YgEAVs)
 
+[102.3 LAB](https://1drv.ms/w/c/354f1c8d534fbced/Ef38O2_Zoh5GrWdO7x_Dv98Bh_zca6oodNMDxJ1nXxBVvQ?e=Bacp7y)
 ---
 
 ## ✅ What I Did in This Lab
