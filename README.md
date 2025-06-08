@@ -5,6 +5,9 @@ In this lab, I explored the mechanics behind shared libraries in Linux. Shared l
 
 I’ve included some helpful links to guide you through the lab and for studying afterward:
 
+[LPIC Exam Objective 102.3](https://www.lpi.org/our-certifications/exam-101-102-objectives/#102.3_Manage_shared_libraries)
+
+
 ---
 
 ## ✅ What I Did in This Lab
